@@ -1,0 +1,27 @@
+{
+  "name": "inspirafusiontables",
+  "version": "1.0.0",
+  "description": "fusions tables api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Inspira Mexico",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "googleapis": "^32.0.0",
+    "mariasql": "^0.2.6",
+    "node-schedule": "^1.3.0",
+    "npm": "^6.4.0",
+    "opn": "^5.3.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "server-destroy": "^1.0.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "jsdoc": "^3.5.5"
+  }
+}
